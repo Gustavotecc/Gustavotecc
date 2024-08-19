@@ -3,7 +3,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-4bb9512b2/)
 [![whatsapp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavo.tec399@gmail.com)
-[![whatsapp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavo.tec399@gmail.com)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavotecc&show_icons=true&theme=synthwave)
 
